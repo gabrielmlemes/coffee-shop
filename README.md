@@ -4,14 +4,15 @@
 
 <div>
   <p>TECNOLOGIAS USADAS:</p>
-  <p>HTML, CSS E JAVASCRIPT</p>
+  <strong>HTML, CSS E JAVASCRIPT</strong>
 </div>
 <hr>
 
 * Aqui está o deploy da aplicação:
  <br>
-  https://coffee-shop-by-lemes.vercel.app/
+  <p>https://coffee-shop-by-lemes.vercel.app/</p>
+<br>
 
 <div align="center">
-  <img src="" width="500px" />
+  <img src="https://github.com/gabrielmlemes/coffee-shop/assets/114612673/e47ed842-ae93-4a8d-b242-000c3717eefa" width="900px" />
 </div>
